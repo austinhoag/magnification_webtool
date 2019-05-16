@@ -12,7 +12,7 @@ When the user uploads a list of coordinates and submits them, the back-end calcu
 
 The back-end calculations are performed in the scripts in src/
 
-## REQUIREMENTS
+## Requirements
 
 Tested on python 2.6 and 2.7 
 
