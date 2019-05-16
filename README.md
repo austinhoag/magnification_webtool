@@ -3,6 +3,7 @@
 The purpose of this webtool is to allow a user to upload a list of coordinates at which they want to query the magnifications in my lens models. 
 
 The webtool front end can be viewed here: http://hoag.physics.ucdavis.edu/magnification_webtool/
+
 The HTML form for the front-end is here: templates/glass.html
 
 The webtool is launched from the script: webtool_glass.py
