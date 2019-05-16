@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>GLASS Cluster Magnification Webtool </h1>
+    Upload a file containing line(s) of the format:
+    <br/><br/>
+    Cluster, ID, RA, DEC, z (no spaces allowed)     
+    <br/><br/>
+    E.g. : 
+    <br/><br/>
+    # Header 
+    <br/>
+    MACS1149,593,177.406921,22.407505,1.48  
+    <br/>
+    MACS0416,94,64.033089,-24.056322,1.366  
+    <br/>
+    ...
+    <br/>
+    # end of file
+    <br/><br/>
+    Note 1: Lines beginning with '#' will be ignored
+    <br/>
+    Note 2: Acceptable cluster names: A2744, MACS0416, MACS0717, MACS1149, RXJ2248, A370, MACS2129, MACS0744, MACS1423, RXJ1347
+    <br/>
+    Note 3: The latest version of the lensing maps will be used automatically. 
+    <br/>
+    Note 4: If the magnification returned is -99, then the object is outside of the lensing FOV 
+    <br/>
+    Note 5: The model for MACS0744 is under construction, so currently magnification will be returned as -99 for all coordinates in that cluster
+    <br/><br/>
+
+
+<form action="./magnification_webtool" method="post" enctype="multipart/form-data" id="upload-form">
+    Select file to upload:
+    <input type="file" name="upfile" id="upfile">
+    <input type="submit" value="Upload file" name="submit">
+</form>
+
+</body>
+</html>

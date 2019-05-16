@@ -1,0 +1,7 @@
+#cluster,ID,RA,DEC,z_best
+#data from a catalog from collaborators
+#A2744,98,3.601353,-30.379217,7.51905
+#data from Tucker, GLASS sample
+#A2744,161,3.58886297,-30.38029116,1.3575
+#data from GLASS archive webpage
+A2744,161,3.5889,-30.3803,1.357

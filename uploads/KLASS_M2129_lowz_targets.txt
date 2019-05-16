@@ -1,0 +1,24 @@
+# KLASS low z targets in M2129
+# Pilot (ID prior to 01/2015) - 1 hr integration
+# ID,RA,,Dec,,spec_z
+MACS2129,1566,322.37243,-7.6792073,1.48 
+MACS2129,1437,322.35081,-7.6818756,1.36 
+MACS2129,1739,322.36050,-7.6744919,1.485 
+MACS2129,1427,322.34755,-7.6820812,1.88 
+MACS2129,1266,322.34646,-7.6858840,1.875 
+MACS2129,49,322.35277,-7.7101493,1.89 
+MACS2129,37,322.36272,-7.7099198,2.395 
+MACS2129,329,322.36335,-7.7032115,1.485 
+# KLASS full survey (ID=150515 reduction) - 5/10 hours complete (Aug 10 2017)
+# ID,RA,,Dec,,spec_z
+MACS2129,1705,322.35549857,-7.7070863982,1.0464 # z_1.05,extended [OIII] at blue end of YJ and Ha+[NII] at red end. At least one should be covered.
+MACS2129,994,322.34802277,-7.692095838,0.5984 # z_0.59,Ha+[NII] at 1.05 micron
+MACS2129,1847,322.35277477,-7.710149532,1.888 # z_1.88,[OII] at 1.07 micron and Hg at 1.25 micron. Strong [OIII]+Hb. Limited spatial extent (~0.5 arcsec) but gets an A+ because of exceptionally bright emission lines.
+MACS2129,1833,322.36272364,-7.709920998,2.2913 # z_2.30,spatially extended [OII] at 1.22 micron. [OIII],Hb,and Hg also seen.
+MACS2129,1539,322.36334989,-7.703211750,1.65 # z_1.64,moderately extended [OIII]+Hb at 1.28-1.32 micron. [OII] also seen.
+MACS2129,974,322.36822278,-7.692491232,1.545 # z_1.55,extended [OIII]+Hb at 1.24-1.28 micron with Ha also seen
+MACS2129,1126,322.35861485,-7.694884656,1.545 # z_1.37,spatially extended [OIII] at 1.19 micron. Ha also seen.
+MACS2129,877,322.38061234,-7.689563809,0.59 # z_0.59 with compact Ha+[NII] and [SII] at 1.04-1.07 micron
+MACS2129,564,322.36481741,-7.683662761,1.37 # z_1.37,weak spatially extended [OIII] at 1.19 micron. Strong Ha+[NII] also seen.
+# Additional target
+MACS2129,451,322.3719,-7.68199,1.368 # AGN,extended disk for spatially resolved continuum study

@@ -1,0 +1,15 @@
+# List of objects for input to the GLASS cluster magnification webtool
+# http://glass.astro.ucla.edu/magnification_webtool
+# Columns: Cluster, ID, RA, DEC, z (no spaces allowed) 
+MACS1149,1,177.405229,22.366322,0.837  # no glass
+MACS1149,1656,177.395558,22.388986,0.961  # in field; GLASS ID_01656 ?
+MACS1149,2040,177.40935,22.379458,0.928  # GLASS ID_02040 ?
+MACS0744,1070,116.23625,39.458631,0.997  # GLASS ID_01070, complex structure, massive
+MACS0744,667,116.197875,39.464750,0.964  # GLASS ID_00667, low mass, strong [O III]
+
+MACS0717,1,109.40087,37.69841,1.5255  # no glass
+MACS0717,454,109.4030,37.7601,1.6911  # GLASS ID_00454, massive disk+bulge, AGN
+MACS0717,3,109.4008,37.7210,1.5702  # no glass?
+
+# MACS0744,2155,116.21062,39.44266,1.310  # GLASS ID_02155; bad z for spectrum
+# MACS0717,,109.364379,37.75708,1.588?  # no glass? no clear lines.
