@@ -1,2 +1,0 @@
-# Object of interest in MACS0744 field
-MACS0744,000,116.1978750,39.4647500,0.99736
