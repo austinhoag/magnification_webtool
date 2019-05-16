@@ -14,6 +14,8 @@ The back-end calculations are performed in the scripts in src/
 
 ## REQUIREMENTS
 
+Tested on python 2.6 and 2.7 
+
 flask -- can be installed with pip
 
 werkzeug -- can be installed with pip
