@@ -2,8 +2,6 @@
 
 The purpose of this webtool is to allow a user to upload a list of coordinates at which they want to query the magnifications in my lens models. 
 
-The webtool front end can be viewed here: http://hoag.physics.ucdavis.edu/magnification_webtool/
-
 The HTML form for the front-end is here: templates/glass.html
 
 The webtool is launched from the script: webtool_glass.py
@@ -16,13 +14,7 @@ The back-end calculations are performed in the scripts in src/
 
 Tested on python 2.6 and 2.7 
 
-flask -- can be installed with pip
-
-werkzeug -- can be installed with pip
-
-astropy -- can be installed with pip (or automatically downloaded with the astroconda anaconda environment) 
-
-cosmolopy -- can be installed with pip
+pip install flask, werkzeug, astropy, cosmolopy
 
 ## Example usage
 
